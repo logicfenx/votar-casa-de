@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/votar-casa-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a votar-casa-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/votar-casa-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://btcstorm.cloud/es/votar-casa-de-los-famosos/"
+    },
+    "homepage": "https://btcstorm.cloud/es/votar-casa-de-los-famosos/"
+}
